@@ -5,7 +5,7 @@ type PostPropsType = {}
 export const Post = (props: PostPropsType) => {
     return (
         <div>
-            <h2>Post</h2>
+            <h2>Post11</h2>
         </div>
     )
 }
