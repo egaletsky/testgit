@@ -12,6 +12,8 @@ function App() {
         </p>
         <p>lorem ipsum dolor</p>
         <p>New branch commit one</p>
+        <p>New branch commit two</p>
+        <p>New branch commit three</p>
         <a
           className="App-link"
           href="https://reactjs.org"
