@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reloa8d.
         </p>
         <p>lorem ipsum dolor</p>
+        <p>New branch commit one</p>
         <a
           className="App-link"
           href="https://reactjs.org"
